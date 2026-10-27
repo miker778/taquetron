@@ -1,0 +1,4 @@
+tests/shot-*.png
+dist/
+data/
+docs/
